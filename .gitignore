@@ -1,0 +1,15 @@
+*.make
+*.cmake
+*.o
+*.includecache
+*.internal
+*.cache
+CMakeFiles/**
+build_isolated/**
+devel_isolated/**
+atomic_configure/**
+catkin_generated/**
+old/**
+build/CMakeFiles/Progress/1
+*.pyc
+*.swp

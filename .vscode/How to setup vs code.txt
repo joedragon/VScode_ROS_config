@@ -1,8 +1,5 @@
-# VScode_ROS_config
-This is just a basic setup on getting c++ and python building working with ros
-and vs code made using the following gudes. :
 
-
+Just follow this gude 
 http://www.lib4dev.in/info/MrGnomes/VS_Code_ROS/i19793
 
 
